@@ -1,3 +1,4 @@
+#Adventure story game. Different events will happen depending on the users input
 name=input("Enter your name ")
 print("Welcome" + name + "to this adventure!")
 answer="You are on a dirt road. It has come to an end  And you can go left or right."
