@@ -1,3 +1,4 @@
+#CComputer quiz that asks the playe I.T related questions
 print("Welcome to my computer quiz! ")
 
 playing = input("Do you want to play? ")
