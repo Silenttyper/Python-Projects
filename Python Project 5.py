@@ -1,3 +1,4 @@
+#Prompt the user to create a password. If the passwords do not match the user will have to create a password again
 import random
 
 def create_password():
