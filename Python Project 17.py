@@ -1,3 +1,4 @@
+#Simple Calculator - It allowed the user to perform basic arithmetic operations (addition, subtraction, multiplication, and division) based on their input. 
 def add(q,w):
     return q+w
 
